@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day9.14Program\Day9.14Program\bin\Debug\Day9.14Program.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day9.14Program\Day9.14Program\bin\Debug\Day9.14Program.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day9.14Program\Day9.14Program\bin\Debug\Day9.14Program.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day9.14Program\Day9.14Program\obj\Debug\Day9.14Program.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day9.14Program\Day9.14Program\obj\Debug\Day9.14Program.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day9.14Program\Day9.14Program\obj\Debug\Day9.14Program.pdb
